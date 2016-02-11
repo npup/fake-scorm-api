@@ -1,2 +1,3 @@
 # fake-scorm-api
-dummy api to make scorm objects run
+
+Dummy api to make scorm objects run. Include the code before `getAPI` is called.
